@@ -1,0 +1,17 @@
+.first-btn,
+.second-btn {
+    /* a comma is a way to add the 2 selectors */
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first-btn {
+    background-color: #000;
+    color: hwb(0 100% 0%);
+    font-weight: bold;
+
+}
+
+.second-btn {
+    background-color: hsl(60, 100%, 50%);
+}
